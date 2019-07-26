@@ -1,2 +1,2 @@
 # new-pete
-new landing with side nav
+new landing page
